@@ -2,6 +2,8 @@
 *.csv
 *.RData
 *.zip
+*.Rhistory
+*.DS_Store
 
 assignment1/notes
 assignment1/data
