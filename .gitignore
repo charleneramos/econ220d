@@ -1,2 +1,8 @@
 *.dta
 *.csv
+*.RData
+*.zip
+
+assignment1/notes
+assignment1/data
+assignment2/data
