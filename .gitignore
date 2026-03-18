@@ -1,5 +1,7 @@
 *.dta
+*.dat
 *.csv
+*.xlsx
 *.RData
 *.zip
 *.Rhistory
